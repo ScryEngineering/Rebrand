@@ -194,6 +194,8 @@ Related competencies:
 
 ##### Machine learning
 
+- The process of creating functionality trained from data - CPS.
+
 - A sub-field of Artificial Intelligence
 - Goal: Generally, to understand the structure of data and fit that data into models that can be understood and used by people. 
 - Machine learning algorithms allow for computers to train on data inputs and use statistical analysis to output values that fall within a specific range
@@ -230,6 +232,10 @@ Today, much data is avialable online and being generated every minute. Memory ha
 
 #### Practical uses and applications
 
+Machine learning algorithms are used in applications where it would be infeasible, either economically or more fundamentally, to build an algorithm of specific instructions for performing the task ahead of time.
+
+- Spam filtering (it's not possible to create a set of all the rules to filter spam ahead of time because new spam is created every day. Instead an adaptive system trained on data being received all the time is best, this is a good use case for machine learning.)
+
 - Healthcare, diagnostic predictions
 - Semantic analysis tech giants do on social media (facial recognition technology helps users tag and share photos of friends)
 - Optical Character Recognition (OCR) tech converts images of text into movable type 
@@ -256,7 +262,29 @@ https://www.digitalocean.com/community/tutorials/an-introduction-to-machine-lear
 
 #### CPS
 
+##### How we can provide value 
 
+We can create and deploy machine learning systems.
+
+This includes applications to Natural Language Processing and associated work.
+
+*Expand*
+
+
+
+##### Relevant testimonials/projects
+
+The [Persephone project](https://persephone-asr.org/) is a machine learning project.
+
+
+
+##### Information for sales process 
+
+Very high amount of buzz in this area right now.
+
+"rebranding" a statistical approach as a ML approach can have a *large prestige impact* on people unfamiliar with the general field. (ML and statistics have huge overlap but many outsiders to the field don't realize this)
+
+Many people think machine learning and AI are the same, they aren't  but it's also not worth really correcting anyone who's outside the  industry as the distinction is quite subtle.
 
 
 
@@ -332,11 +360,86 @@ Data science is greatly enabled by better process automation (see data science p
 
 #### Definition 
 
+The application of mathematics in the form of algorithms and computer software to improve processes - CPS
 
+Some problems have constraints (equations that place limits on how big or small some variables can get), and some do not - limited vs. unlimited. 
+
+Examples: manufacturing process cannot require more resources than are available, nor can it employ less than zero resources
+
+Objective functions can be maximized or minimized 
+
+Examples: expected return on a stock portfolio; company's production costs/profits; vehicle's time of arrival at a specified destination; a candidate's vote share
+
+Variables can be discrete (for example, only have integer values) or continuous.
+
+Examples: Quantities of stock to be bought or sold; amounts of various resources to be allocated to different production activities; route to be followed by a vehicle through a traffic network; policies to be advocated by a candidate
+
+Some problems are static (do not change over time) while some are dynamic (continual adjustments must be made as changes occur).
+
+Systems can be deterministic (specific causes produce specific effects) or stochastic (involve randomness/probability). 
+
+Equations can be linear (graph to lines) or nonlinear (graph to curves).
+
+##### Terminology 
+
+Different industries may have different words to describe the mathematical optimization space.
+
+These will include:
+
+- Operations research
+- Commercial mathematics
+- ... ?
+
+Linear programming
+
+- no variables are raised to higher powers, such as squares
+
+Nonlinear programming
+
+- Variables are real numbers, and objective or some constraints are nonlinear functions (can involve squares, square roots, trigonometric functions, products of variables)
+
+https://www.britannica.com/science/optimization
 
 #### Practical uses and applications 
 
+A rich history of mathematical optimization techniques have been used in a wide range of industries, including: 
 
+- Logistics and transport 
+- Warehouse planning
+- Scheduling and sequencing 
+- Bin/box/container packing 
+
+More: 
+
+- Manufacturing 
+- Production 
+- Inventory control 
+- Networks
+- Finance 
+- Engineering
+- Mechanics 
+- Economics 
+- Control engineering 
+- Marketing 
+- Policy modeling
+
+
+
+##### Consumer level examples 
+
+Various apps that people are likely to have used personally *as consumers* have a substantial mathematical optimization component. For example Uber does this for vehicle routing and trip planning.
+
+Sometimes you can frame things based on common day to day issues if  relevant. For example a big logistics fleet will spend a lot of money on fuel, if  you say "hey the price of fuel has been going up" then you can take that  1% improvement in fuel costs and now say that the savings will only  grow as time goes on.
+
+#### Benefits 
+
+Mathematical optimization works better than traditional "guess and check" methods 
+
+MO is a lot less expensive than building and testing 
+
+In the modern world, pennies matter, microseconds matter, microns matter. 
+
+https://web.stanford.edu/group/sisl/k12/optimization/MO-unit1-pdfs/1.1optimization.pdf
 
 #### Challenges 
 
@@ -344,14 +447,32 @@ Data science is greatly enabled by better process automation (see data science p
 
 #### Resources 
 
-
+https://en.wikipedia.org/wiki/Mathematical_optimization
 
 #### CPS
 
+##### How we can provide value 
 
+We can improve processes directly with the power of mathematics and achieve substantial savings in areas suck as:
+
+- Reduced logistics costs 
+- Reduction in time required to create/deliver/stock/etc. for a number of processes
+- Productivity improvements
+
+Various services people rely on have a substantial mathematical optimization component such as the electricity grid, which has complex supply and demand considerations that directly impact pricing for those commodities. Any small saving here percentage-wise at this scale ends up being an enormous amount of money.
+
+##### Relevant testimonials/projects 
+
+Aapeli and Janis worked at Biarri, a firm offering consulting services in this area. The kibitzer project was entirely based in this area.
 
 Related competencies: Machine learning has substantial overlap with the algorithms and techniques that can be 
 used in applied problems in the mathematical optimization space.
+
+##### Information for sales process 
+
+How much turnover/gross value is involved in a process? Learning this can help because you can them frame small percentages of improvements as large amounts of money.
+
+Ex: $1 million cost on some inventory processes over a year in a company, 1% improvement is $10,000 per year, every year. Janis has seen these back-of-the-envelope dollar framing stories be successful.
 
 
 
