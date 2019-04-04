@@ -110,6 +110,8 @@ Solution: automation of tedious work
 
 Example situations and problems
 
+##### How we can provide value 
+
 
 
 Case Studies:
@@ -147,9 +149,13 @@ Data science makes better decisions
 
 https://www.analyticsvidhya.com/blog/2015/09/applications-data-science/
 
-#### Challenges 
+#### Challenges / extra notes
 
+There's a gulf between techniques that are data-oriented and those that aren't. Although performance engineering involves some data and statistics, it can be done without either. 
 
+In contrast, data is an intrinsic and essential part of data science projects. These projects always have data pipeline requirements.  
+
+These are drastically different skill sets - you need a partner with the experience to know which one applies to your problem, and how to correctly build and implement a solid, cost-effective solution the first time.
 
 #### Resources 
 
@@ -250,7 +256,9 @@ Machine learning algorithms are used in applications where it would be infeasibl
 
 https://www.digitalocean.com/community/tutorials/an-introduction-to-machine-learning
 
+Need examples of  semi-supervised learning 
 
+Question: is this right: "We guide you through every critical decision, from planning and packaging to launch stages" (got from reading persephone project summary)
 
 #### Challenges
 
@@ -269,6 +277,8 @@ We can create and deploy machine learning systems.
 This includes applications to Natural Language Processing and associated work.
 
 *Expand*
+
+
 
 
 
@@ -294,9 +304,7 @@ https://www.sas.com/en_ca/insights/analytics/machine-learning.html
 
 Related competencies: 
 
-Natural Language Processing 
-
-
+Operations research will 
 
 
 
@@ -408,6 +416,7 @@ A rich history of mathematical optimization techniques have been used in a wide 
 - Warehouse planning
 - Scheduling and sequencing 
 - Bin/box/container packing 
+- uses: helping triage physiotherapy and chiropractic - people are going to wrong healthcare providers because they don't know what they don't know. this is one of big things we can help people with. 
 
 More: 
 
@@ -425,6 +434,12 @@ More:
 
 
 
+workflow automation/process automation give you tools to deal with the flow of information; help businesses cut through problem of too much information; help computers filter through noise and dig into insights they need for their business. 
+
+example - content marketing and writing triage - do they need SEO, content marketing? automated advice platform. want to be able to determine whether their issue is in branding, marketing, writing in semi-automated way so people can be directed to right information 
+
+- set of questionnaires - automated decision tree-based system. get case studies with questions; assess where these would go; create training data set - these things should be forwarded to this email or be referred here. campaign on mailchimp; marketing to what people need, not what they think they need. think about information flows rather than information itself. position myself to have information 
+
 ##### Consumer level examples 
 
 Various apps that people are likely to have used personally *as consumers* have a substantial mathematical optimization component. For example Uber does this for vehicle routing and trip planning.
@@ -433,6 +448,8 @@ Sometimes you can frame things based on common day to day issues if  relevant. F
 
 #### Benefits 
 
+Data science, machine learning and math optimization: helping people make better decisions; the core of what we do is decision support; techniques to optimize another problem 
+
 Mathematical optimization works better than traditional "guess and check" methods 
 
 MO is a lot less expensive than building and testing 
@@ -440,6 +457,12 @@ MO is a lot less expensive than building and testing
 In the modern world, pennies matter, microseconds matter, microns matter. 
 
 https://web.stanford.edu/group/sisl/k12/optimization/MO-unit1-pdfs/1.1optimization.pdf
+
+#### Other points 
+
+
+
+
 
 #### Challenges 
 
